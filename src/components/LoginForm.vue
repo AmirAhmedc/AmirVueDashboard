@@ -29,8 +29,7 @@ export default {
   },
   methods: {
     login () {
-      // if (this.username === 'admin' && this.password === '123456') {
-      if (1) {
+      if (this.username === 'admin' && this.password === '123456') {
         this.$emit('login')
       } else {
         alert('Invalid username or password.')
