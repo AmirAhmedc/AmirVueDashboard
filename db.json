@@ -29,7 +29,7 @@
       "name": "AmirAhmed",
       "phone": "3456",
       "specialties": [
-        "Pediatrics"
+        "Internal Medicine"
       ],
       "id": 12
     },
@@ -40,6 +40,14 @@
         "Internal Medicine"
       ],
       "id": 13
+    },
+    {
+      "name": "asdnakjd",
+      "phone": "13211342",
+      "specialties": [
+        "Internal Medicine"
+      ],
+      "id": 14
     }
   ],
   "patients": [
